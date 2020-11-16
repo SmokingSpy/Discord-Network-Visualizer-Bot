@@ -10,8 +10,8 @@ from PIL import Image
 from tqdm import tqdm
 import random
 
-GUILD = '723985175481942137'
-TOKEN = 'Nzc3NDM1MDQ3MDAyNzY3Mzcy.X7DYzw.fXAIxA86JGf7SzT2tIFtd_NW6VU'
+GUILD = 'oops'
+TOKEN = 'oops'
 
 class MyClient(discord.Client):
     async def on_ready(self):
